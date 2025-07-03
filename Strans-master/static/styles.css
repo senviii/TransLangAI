@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+  }
+  
+  .translator-card {
+    max-width: 500px;
+    border-radius: 1rem;
+  }
+  
+  .btn-outline-primary {
+    border-width: 2px;
+    font-weight: 500;
+  }
+  
+  textarea.form-control {
+    resize: vertical;
+  }
+  
+  audio {
+    border-radius: 0.5rem;
+  }
+  
